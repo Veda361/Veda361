@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Veda361/Veda361/main/assets/banner.png"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dev%20Sahu&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Dev</h1>
@@ -16,31 +16,61 @@
 
 # 🧠 About Me
 
-🚀 Full Stack Developer
-🎓 B.Tech Student
+🚀 **Full Stack Developer**
+🎓 **B.Tech Student**
 
-I love building:
+I enjoy building:
 
-• scalable web apps
-• modern UI systems
+• scalable web platforms
+• modern UI experiences
 • backend APIs
 • developer tools
 
-Currently building **Bazaario**.
+Currently working on **Bazaario — enterprise eCommerce platform**.
 
 ---
 
 # 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=javascript,python,c,html,css,react,tailwind,vite,fastapi,nodejs,postgres,firebase,git,linux,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,python,c,html,css,react,tailwind,vite,fastapi,nodejs,postgres,firebase,git,linux,vscode,docker"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# ⭐ Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Veda361&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+## 🛒 Bazaario
+
+Enterprise-level **eCommerce platform**
+
+Features:
+
+• FastAPI backend
+• React frontend
+• Razorpay payments
+• Resale marketplace
+• Netflix-style cinematic UI
+
+---
+
+## 🤝 SkillSync
+
+Developer collaboration platform
+
+• swipe-based idea matching
+• real-time collaboration
+• project board management
+
+---
+
+## 🧠 SkillMitr
+
+Developer networking platform
+
+• swipe skill matching
+• skill-based connections
+• collaborative learning
 
 ---
 
@@ -59,7 +89,7 @@ Currently building **Bazaario**.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Veda361&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Veda361&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -67,19 +97,52 @@ Currently building **Bazaario**.
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Veda361&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Veda361&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Veda361/Veda361/main/dist/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Veda361&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
 ---
 
 # 💡 Dev Quote
 
-> Programs must be written for people to read.
+> “Programs must be written for people to read.”
 > — Harold Abelson
+
+---
+
+<p align="center">
+
+⭐ From <a href="https://github.com/Veda361">Dev</a>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
