@@ -148,11 +148,11 @@ Skill networking platform
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Bazaario&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Bazaario.com&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=SkillSync&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=prsnl_expenditure_tracker&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=SkillMitr&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Web-dev-practical&theme=tokyonight&hide_border=true"/>
 
 </p>
 
