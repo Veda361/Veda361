@@ -144,15 +144,13 @@ Skill networking platform
 
 ---
 
-# 🧩 Animated Project Cards (Apple-style Showcase)
+# 🧩  Project Cards
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Bazaario.com&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Bazaario.com&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=prsnl_expenditure_tracker&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Web-dev-practical&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=prsnl_expenditure_tracker&theme=tokyonight"/>
 
 </p>
 
