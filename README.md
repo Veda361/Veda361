@@ -30,6 +30,32 @@ Currently working on **Bazaario — enterprise eCommerce platform**.
 
 ---
 
+# 🧠 Dev Journey Timeline
+
+2022 ─ Started Programming
+Learned C and programming basics
+
+2023 ─ Web Development
+HTML • CSS • JavaScript
+
+2024 ─ Full Stack Development
+React • Node • Databases
+
+2025 ─ Backend Engineering
+FastAPI • APIs • System Design
+
+2026 ─ Building Scalable Systems
+Cloud • DevOps • Large Applications
+
+
+# 🎮 Skill Level System
+
+Frontend Development   ██████████ 90%  
+Backend Development    █████████░ 85%  
+System Design          ███████░░░ 70%  
+DevOps                 ██████░░░░ 60%  
+UI / UX                ████████░░ 80%  
+
 # 🧰 Tech Stack
 
 <p align="center">
@@ -101,6 +127,12 @@ Developer networking platform
 </p>
 
 ---
+
+# 🧊 3D Contribution Cube
+
+Check my 3D GitHub contributions:
+
+https://skyline.github.com/Veda361
 
 # 🏆 GitHub Trophies
 
