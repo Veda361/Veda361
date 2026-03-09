@@ -75,9 +75,8 @@ Currently building **Bazaario**.
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Veda361/Veda361/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Veda361/Veda361/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
 ---
 
 # 💡 Dev Quote
