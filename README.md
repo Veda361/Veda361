@@ -15,10 +15,6 @@
 ---
 
 
-
-🚀 **Full Stack Developer**
-🎓 **B.Tech Student**
-
 I enjoy building modern software systems and scalable platforms.
 
 Things I love working on:
