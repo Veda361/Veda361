@@ -14,7 +14,7 @@
 
 ---
 
-# 🧠 About Me
+
 
 🚀 **Full Stack Developer**
 🎓 **B.Tech Student**
