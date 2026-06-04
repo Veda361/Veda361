@@ -28,7 +28,7 @@ Things I love working on:
 • Modern UI/UX systems
 • Developer productivity tools
 
-Currently building **Bazaario — an enterprise eCommerce platform**.
+Currently building **CrisisBridge – Disaster Response & Resource Coordination Platform**.
 
 ---
 
