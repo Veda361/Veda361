@@ -1,254 +1,84 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dev%20Sahu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=DEV%20SAHU&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Dev</h1>
+<h1 align="center">Hi 👋, I'm Dev Sahu</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+FastAPI+Engineer;Building+Scalable+Web+Platforms;Open+Source+Builder;Always+Learning+New+Tech"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+FastAPI+Engineer;Building+Scalable+Platforms;Open+Source+Contributor;Always+Learning+New+Tech"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Veda361&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Veda361&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
----
-
-
-🚀 **Full Stack Developer**
-🎓 **B.Tech Student**
-
-
-I enjoy building modern software systems and scalable platforms.
-
-Things I love working on:
-
-• Full-stack web applications
-• High-performance APIs
-• Modern UI/UX systems
-• Developer productivity tools
-
-Currently building **CrisisBridge – Disaster Response & Resource Coordination Platform**.
-
----
-
-# 🧰 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,python,c,html,css,react,tailwind,vite,fastapi,nodejs,postgres,firebase,git,linux,vscode,docker"/>
+<img width="850" src="https://user-images.githubusercontent.com/74038190/212750543-081f7f41-2a7d-4d9f-8d9c-c8d6c73b0f89.gif">
 </p>
 
 ---
 
-# 🧠 Dev Journey Timeline
+## 🚀 About Me
 
-```
-2022 ─ Started Programming
-       Learned C and core programming fundamentals
-
-2023 ─ Entered Web Development
-       HTML • CSS • JavaScript
-
-2024 ─ Became a Full Stack Developer
-       React • APIs • Databases
-
-2025 ─ Backend Engineering
-       FastAPI • PostgreSQL • Architecture
-
-2026 ─ Building Scalable Systems
-       Cloud • DevOps • Advanced Engineering
-```
+* 🎓 B.Tech Student
+* 💻 Full Stack Developer
+* ⚡ React • FastAPI • PostgreSQL
+* 🚀 Building scalable software systems
+* 🌱 Currently building **CrisisBridge**
 
 ---
 
-# 🎮 Developer Skill Tree
+## 🧰 Tech Stack
 
-```
-Frontend
-├── HTML ⭐⭐⭐⭐⭐
-├── CSS ⭐⭐⭐⭐
-└── React ⭐⭐⭐⭐
-
-Backend
-├── FastAPI ⭐⭐⭐⭐
-├── NodeJS ⭐⭐⭐
-└── API Design ⭐⭐⭐⭐
-
-Database
-├── PostgreSQL ⭐⭐⭐⭐
-└── Firebase ⭐⭐⭐⭐
-
-Tools
-├── Git ⭐⭐⭐⭐⭐
-├── Linux ⭐⭐⭐⭐
-└── VS Code ⭐⭐⭐⭐⭐
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,python,c,html,css,react,tailwind,vite,fastapi,nodejs,postgres,firebase,git,linux,vscode,docker&perline=8"/>
+</p>
 
 ---
 
-# 🛰 Developer Radar
-
-| Skill        | Level |
-| ------------ | ----- |
-| Frontend     | ⭐⭐⭐⭐⭐ |
-| Backend      | ⭐⭐⭐⭐  |
-| Architecture | ⭐⭐⭐⭐  |
-| DevOps       | ⭐⭐⭐   |
-| UI Design    | ⭐⭐⭐⭐  |
-
----
-
-# 📊 Developer Dashboard
-
-| Category    | Tools                   |
-| ----------- | ----------------------- |
-| Frontend    | React • Tailwind • Vite |
-| Backend     | FastAPI • Node          |
-| Database    | PostgreSQL • Firebase   |
-| DevOps      | Docker • Git            |
-| Environment | Linux • VS Code         |
-
----
-
-# 🧩 Featured Projects
-
-### 🛒 Bazaario
-
-Enterprise-level **eCommerce platform**
-
-* React + Tailwind frontend
-* FastAPI backend
-* PostgreSQL database
-* Firebase authentication
-* Razorpay payment integration
-
----
-
-### 🤝 SkillSync
-
-Developer collaboration platform
-
-* Swipe-based project matching
-* Idea sharing
-* Team formation
-
----
-
-### 🧠 SkillMitr
-
-Skill networking platform
-
-* Skill discovery
-* Developer connections
-* Learning collaboration
-
----
-
-# 🧩  Project Cards
+## 🏆 Featured Projects
 
 <p align="center">
 
+<a href="https://github.com/Veda361/Bazaario.com">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Bazaario.com&theme=tokyonight&hide_border=true"/>
+</a>
 
+<a href="https://github.com/Veda361/Ai-Interview-Platform">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Ai-Interview-Platform&theme=tokyonight&hide_border=true"/>
+</a>
 
 </p>
 
 ---
 
-# 🧩 Project Architecture Showcase
-
-### Bazaario
-
-Frontend
-└── React + Tailwind
-
-Backend
-└── FastAPI
-
-Database
-└── PostgreSQL
-
-Authentication
-└── Firebase
-
-Payments
-└── Razorpay
-
----
-
-# 🤖 AI Developer Profile
-
-Name: **Dev Sahu**
-Role: **Full Stack Developer**
-
-Core Stack
-React • FastAPI • PostgreSQL
-
-Strengths
-
-• Scalable backend systems
-• Modern UI engineering
-• Full-stack product development
-
-Currently Building
-
-🚀 Bazaario
-🤝 SkillSync
-🧠 SkillMitr
-
----
-
-# 💻 Developer Operating System
-
-```
-DevOS v1.0
-
-User: Dev Sahu
-Role: Full Stack Developer
-
-Running Processes
-• Building scalable products
-• Learning new technologies
-• Solving engineering problems
-
-System Status
-CPU: Coding
-RAM: Coffee Powered
-Uptime: Always Learning
-```
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Veda361&theme=onedark&no-frame=true"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Veda361&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Veda361&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veda361&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Veda361&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Veda361&theme=tokyonight"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veda361&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Veda361&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veda361&theme=tokyo-night"/>
@@ -256,18 +86,35 @@ Uptime: Always Learning
 
 ---
 
-# 🐍 Contribution Snake
+## 📋 Profile Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Veda361/Veda361/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Veda361&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Veda361&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Veda361&theme=tokyonight"/>
+</p>
 
-# 💡 Dev Quote
+---
 
-> Programs must be written for people to read.
-> — Harold Abelson
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/Veda361/Veda361/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> Programs must be written for people to read, and only incidentally for machines to execute.
+
+— Harold Abelson
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
 </p>
