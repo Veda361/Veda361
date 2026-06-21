@@ -1,3 +1,4 @@
+```md
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=DEV%20SAHU&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
@@ -20,11 +21,11 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Student
-* 💻 Full Stack Developer
-* ⚡ React • FastAPI • PostgreSQL
-* 🚀 Building scalable software systems
-* 🌱 Currently building **CrisisBridge**
+- 🎓 B.Tech Student
+- 💻 Full Stack Developer
+- ⚡ React • FastAPI • PostgreSQL
+- 🚀 Building scalable software systems
+- 🌱 Currently building **CrisisBridge – Disaster Response & Resource Coordination Platform**
 
 ---
 
@@ -97,7 +98,15 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Veda361&theme=tokyonight"/>
 </p>
 
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Veda361/Veda361/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
 
 ## 💡 Developer Quote
 
@@ -110,3 +119,4 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
 </p>
+```
