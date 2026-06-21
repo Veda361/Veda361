@@ -148,9 +148,9 @@ Skill networking platform
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Bazaario.com&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Bazaario.com&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=prsnl_expenditure_tracker&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Veda361&repo=Ai-Interview-Platform&theme=tokyonight&hide_border=true"/>
 
 </p>
 
